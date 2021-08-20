@@ -26,7 +26,9 @@
   <div align="center">
  <h4> Meus Projetos: </h4>
  
-[APP RecipeX](https://CristianBrum.github.io/project-recipes-app/#/)
+[APP RecipeX](https://CristianBrum.github.io/project-recipes-app/#/)<br>
+[Trivia](https://cristianbrum.github.io/project-trivia-react-redux/#/)
+    
   </div>
  
   ![Snake animation](https://github.com/tuliospl/tuliospl/blob/output/github-contribution-grid-snake.svg)
