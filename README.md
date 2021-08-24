@@ -1,3 +1,13 @@
+  <div align="center">
+  <h1>Olá, eu sou Cristian Brum 👋</h1>
+  <h2>Desenvolvedor Front-End</h2>
+<h2>Quem sou eu? 👦🏻</h2>
+  
+👨🏻‍💻 Sou um estudante de desenvolvimento web na Trybe.<br>
+🤓 No momento, estou aprendendo recursos de back-end.<br>
+📄 Veja meu [Curriculum Vitae](https://gitconnected.com/cristianbrum/resume) para obter mais informações.
+</div>
+
 <div align="center">
 <a  href="https://github.com/CristianBrum" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
@@ -33,7 +43,7 @@
   </div>
  
   ![Snake animation](https://github.com/tuliospl/tuliospl/blob/output/github-contribution-grid-snake.svg)
-
+  
 <!--
 **CristianBrum/CristianBrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
