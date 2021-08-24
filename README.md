@@ -21,6 +21,9 @@
 <a href="https://www.linkedin.com/in/cristianbrum/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
+  <a href="https://api.whatsapp.com/send?phone=+5551998537391&text=Ol%C3%A1,%20Cristian!" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/373/PNG/256/Whatsapp_37229.png" width="48px" height="48px">
+</a>
 </div>
 <br>
 
